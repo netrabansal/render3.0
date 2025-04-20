@@ -1,0 +1,27 @@
+.CSI{
+    background-color: rgb(68, 5, 5);
+    border: 10px solid rgb(79, 79, 67);
+    padding: 10px 10px 20px 40px;
+    color: rgb(235, 243, 240);
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 5px;
+    
+}
+
+
+#tt{
+    background-color: bisque;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap-reverse;
+    justify-content:space-around;
+    align-items: center;
+}
+
+.t{
+    width: 20px;
+    height: 70px;
+    background-color: brown;
+    margin: 5px;
+
+}
